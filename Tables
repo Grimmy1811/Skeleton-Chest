@@ -11,7 +11,7 @@
       {"value":"4", "result":"shin", "image":"", "description": "it's connected to your kneebone"},
       {"value":"5", "result":"tibia", "image":"", "description": "it's connected to your kneebone"},
       {"value":"6", "result":"vertabre", "image":"", "description": "they've got your back"},
-      {"value":"6", "result":"scapula", "image":"", "description": "thats the pointy bit on your back"}
+      {"value":"7", "result":"scapula", "image":"", "description": "thats the pointy bit on your back"}
       ]
    },
    {
