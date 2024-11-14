@@ -5,8 +5,8 @@
    "active":false,
    "content":
       [
-      {"value":"1", "result":"skull", "image":"", "description": ""},
-      {"value":"2", "result":"sternum", "image":"", "description":""}
+      {"value":"1", "result":"skull", "image":"", "description": "A skull is the bone that goes on top of the spine"},
+      {"value":"2", "result":"sternum", "image":"", "description":"A sternum holds the ribcage together"}
       ]
    },
    {
@@ -15,8 +15,8 @@
    "active":false,
    "content":
       [
-      {"value":"1","result":"salmon"},
-      {"value":"2","result":"carp"}
+      {"value":"1","result":"salmon", "image":"", "description": "It's pink!"},
+      {"value":"2","result":"carp", "image":"", "description": "It's not!"}
       ]
    }
 ]
