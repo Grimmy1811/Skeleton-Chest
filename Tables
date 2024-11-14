@@ -2,9 +2,19 @@
    {
    "name":"Bones",
    "description":"table o bones",
-   "content":[
+   "content":
+      [
       {"value":"1","result":"skull"},
       {"value":"2","result":"sternum"}
+      ]
+   },
+   {
+   "name":"Fish",
+   "description":"what can you catch",
+   "content":
+      [
+      {"value":"1","result":"salmon"},
+      {"value":"2","result":"carp"}
       ]
    }
 ]
