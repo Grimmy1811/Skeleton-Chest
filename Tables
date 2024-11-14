@@ -8,7 +8,8 @@
       {"value":"1", "result":"skull", "image":"", "description": "A skull is the bone that goes on top of the spine"},
       {"value":"2", "result":"sternum", "image":"", "description": "A sternum holds the ribcage together"},
       {"value":"3", "result":"rib", "image":"", "description": "these hold you lungs in"},
-      {"value":"4", "result":"shin", "image":"", "description": "it's connected to your kneebone"}
+      {"value":"4", "result":"shin", "image":"", "description": "it's connected to your kneebone"},
+      {"value":"5", "result":"tibia", "image":"", "description": "it's connected to your kneebone"}
       ]
    },
    {
