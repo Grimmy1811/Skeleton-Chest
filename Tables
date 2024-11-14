@@ -6,7 +6,7 @@
    "content":
       [
       {"value":"1", "result":"skull", "image":"", "description": "A skull is the bone that goes on top of the spine"},
-      {"value":"2", "result":"sternum", "image":"", "description":"A sternum holds the ribcage together"}
+      {"value":"2", "result":"sternum", "image":"", "description": "A sternum holds the ribcage together"}
       ]
    },
    {
