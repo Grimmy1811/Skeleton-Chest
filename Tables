@@ -1,8 +1,8 @@
 [
    {
    "name":"Bones",
-   "description":"table o bones"
-   "active":false
+   "description":"table o bones",
+   "active":false,
    "content":
       [
       {"value":"1", "result":"skull", "image":"", "description: ""},
@@ -12,7 +12,7 @@
    {
    "name":"Fish",
    "description":"what can you catch",
-   "active":false
+   "active":false,
    "content":
       [
       {"value":"1","result":"salmon"},
